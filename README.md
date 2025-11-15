@@ -1,6 +1,10 @@
+![CI](https://github.com/padhayay88/shashank-portfolio/actions/workflows/ci.yml/badge.svg)
+
 # shashank-portfolio
 
 Personal portfolio built with Next.js + Tailwind CSS + Framer Motion.
+
+Live demo: https://shashank-portfolio.vercel.app
 
 Quick start
 

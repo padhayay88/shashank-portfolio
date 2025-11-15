@@ -17,6 +17,9 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="Shashank Upadhayay — Portfolio" />
         <meta property="og:description" content="Portfolio of Shashank Upadhayay. Full-stack web developer and AI enthusiast." />
         <meta property="og:type" content="website" />
+        <meta property="og:image" content="/og-image.svg" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="/og-image.svg" />
         <link rel="icon" href="/favicon.svg" />
       </Head>
       <Navbar />
